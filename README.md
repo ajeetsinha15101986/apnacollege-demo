@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my second repo
 <br>
-Author- Aaryansh Veer
+Author- Aaryansh Veer sinhas ji
